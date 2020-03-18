@@ -1,6 +1,6 @@
 {
   "name": "@j.u.p.iter/react-dropdown",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.1",
   "description": "Simple but powerful react dropdown",
   "main": "index.js",
   "repository": "git@github.com:j-u-p-iter/react-dropdown.git",
